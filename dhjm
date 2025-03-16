@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>روبوت التوحد</title>
+</head>
+<body>
+    <h1>مرحبًا! هذا موقع روبوت التوحد.</h1>
+    <!-- أضف كود الروبوت هنا -->
+    <script async src="https://chatbot-dist.s3.us-east-2.amazonaws.com/chatbot/v2_build_chatbot.js"
+    chatbottd="85090f59-5a18-43d4-a152-60bf7a5a5282"></script>
+</body>
+</html>
